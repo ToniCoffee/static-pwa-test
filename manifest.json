@@ -1,0 +1,31 @@
+{
+	"name": "PWA TESTING",
+	"short_name": "PWA",
+	"lang": "en-US",
+	"scope": "./",
+	"start_url": "./?utm_source=web_app_manifest",
+	"display": "standalone",
+	"theme_color": "red",
+	"background_color": "orange",
+	"description": "This app is a progressive web app (PWA) made only for testing purposes",
+	"orientation": "portrait-primary",
+	"icons": [
+		{
+			"src": "./imgs/apple-icon-57x57.png",
+			"sizes": "57x57",
+			"type": "image/png",
+			"density": "1.0"
+		}
+	],
+	"prefer_related_applications": true,
+	"related_applications": [
+		{
+			"platform": "web",
+			"url": "https://tonicoffee.github.io/static-pwa-test"
+		},
+		{
+			"platform": "play",
+			"url": "https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched"
+		}
+	]
+}
