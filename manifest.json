@@ -3,7 +3,7 @@
 	"short_name": "PWA",
 	"lang": "en-US",
 	"scope": "./",
-	"start_url": "./?utm_source=web_app_manifest",
+	"start_url": "index.html",
 	"display": "standalone",
 	"theme_color": "red",
 	"background_color": "orange",
