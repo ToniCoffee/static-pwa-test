@@ -3,13 +3,19 @@
 	"short_name": "PWA",
 	"lang": "en-US",
 	"scope": "./",
-	"start_url": "./?utm_source=web_app_manifest",
+	"start_url": "inde.html",
 	"display": "standalone",
 	"theme_color": "red",
 	"background_color": "orange",
 	"description": "This app is a progressive web app (PWA) made only for testing purposes",
 	"orientation": "portrait-primary",
 	"icons": [
+		{
+			"src": "./imgs/apple-icon-180x180.png",
+			"sizes": "180x180",
+			"type": "image/png",
+			"density": "1.0"
+		},
 		{
 			"src": "./imgs/apple-icon-57x57.png",
 			"sizes": "57x57",
