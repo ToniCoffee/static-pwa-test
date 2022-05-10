@@ -2,13 +2,13 @@
 	"name": "PWA TESTING",
 	"short_name": "PWA",
 	"lang": "en-US",
-	"scope": "./",
+	"scope": ".",
 	"start_url": "index.html",
 	"display": "standalone",
 	"theme_color": "red",
 	"background_color": "orange",
 	"description": "This app is a progressive web app (PWA) made only for testing purposes",
-	"orientation": "fullscreen",
+	"orientation": "portrait",
 	"icons": [
 		{
 			"src": "./imgs/apple-icon-180x180.png",
